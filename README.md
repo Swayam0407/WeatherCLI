@@ -15,15 +15,15 @@
    ```bash
    git clone https://github.com/yourusername/weather-cli.git
    ```
-2.	Navigate to the project directory:
+2. Navigate to the project directory:
 
    ```bash
    cd weather-cli
-```
-3.	Install the required dependencies:
 
-```bash
-npm install
+3. Install the required dependencies:
+
+   ```bash
+   npm install
 ```
 
 ##Usage
