@@ -45,11 +45,10 @@ node weather-cli getWeather London
 
 This will output:
 
--Fetching weather for: London...
--Weather in London, United Kingdom:
--Temperature: 18°C
--Condition: Partly cloudy
-
+- Fetching weather for: London...
+- eather in London, United Kingdom:
+- Temperature: 18°C
+- Condition: Partly cloudy
 
 ## API KEY
 
