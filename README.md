@@ -44,11 +44,12 @@ node weather-cli getWeather London
 ```
 
 This will output:
-
+```bash
 - Fetching weather for: London...
-- eather in London, United Kingdom:
+- Weather in London, United Kingdom:
 - Temperature: 18°C
 - Condition: Partly cloudy
+```
 
 ## API KEY
 
