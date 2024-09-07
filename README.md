@@ -19,14 +19,15 @@
 
    ```bash
    cd weather-cli
+   ```
 
 3. Install the required dependencies:
 
    ```bash
    npm install
    ```
-
-##Usage
+   
+## Usage
 
 To use WeatherCLI, you can run the following command from your terminal:
 
