@@ -50,18 +50,8 @@ This will output:
 -Temperature: 18°C
 -Condition: Partly cloudy
 
-Commands
 
-	•	getWeather <city>: Fetches the current weather for the specified city.
-
-Technologies Used
-
-	•	Node.js: JavaScript runtime for building CLI applications.
-	•	Commander.js: For building the command-line interface and argument parsing.
-	•	Axios: For making HTTP requests to fetch the weather data.
-	•	Chalk: For styling the output in the terminal.
-
-Weather API Key
+## API KEY
 
 The WeatherCLI uses the WeatherAPI service to fetch weather data. You can sign up for a free API key at https://www.weatherapi.com/.
 
@@ -74,6 +64,6 @@ To change the API key:
 
 const apiKey = 'your_api_key_here';
 
-License
+## License
 
 This project is licensed under the MIT License.
