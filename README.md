@@ -31,13 +31,17 @@
 
 To use WeatherCLI, you can run the following command from your terminal:
 
+```bash
 node weather-cli getWeather <city>
+```
 
 Replace <city> with the name of the city you want to check the weather for.
 
 Example
 
+```bash
 node weather-cli getWeather London
+```
 
 This will output:
 
