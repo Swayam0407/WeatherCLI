@@ -24,7 +24,7 @@
 
    ```bash
    npm install
-
+   ```
 
 ##Usage
 
