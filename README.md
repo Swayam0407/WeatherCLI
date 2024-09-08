@@ -64,6 +64,4 @@ To change the API key:
 
 const apiKey = 'your_api_key_here';
 
-## License
 
-This project is licensed under the MIT License.
